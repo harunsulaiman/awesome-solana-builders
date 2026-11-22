@@ -20,6 +20,8 @@ New entries are welcome. See [Contributing](#contributing).
 
 Services that give your code a connection to the Solana network.
 
+- [Chain.Love](https://chain.love/) - Open-source dataset of Web3 infrastructure providers, including RPCs, indexers, wallets and explorers, for cross-network service discovery.
+
 - [Alchemy](https://www.alchemy.com/solana) - Multi-chain node provider that includes Solana RPC alongside its data APIs and webhooks.
 - [Helius](https://www.helius.dev) - Solana-only provider with RPC, enhanced token and NFT APIs, webhooks and a priority fee estimation endpoint.
 - [Ironforge](https://www.ironforge.sanctum.so) - Management layer that sits in front of your existing RPC providers instead of being a provider itself.
